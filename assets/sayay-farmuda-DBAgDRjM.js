@@ -1,0 +1,1 @@
+const s="/blnd-ismael-mustafa/images/projects/gcommerce.jpg",a="/blnd-ismael-mustafa/images/projects/kurd-ferga.png",m="/blnd-ismael-mustafa/images/projects/netmart.png",t="/blnd-ismael-mustafa/images/projects/sayay-farmuda.png";export{s as _,a,m as b,t as c};
